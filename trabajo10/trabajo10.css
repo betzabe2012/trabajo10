@@ -30,11 +30,12 @@ background-position: center;
 	width: 80px;
 	margin-left: 70px;
 }
-.h1-header{
+.h1-header{	
 	color: #ffffff;
 	text-align: center;
 	padding-top: 100px;
 	font-family: 'Playfair Display', serif;
+	font-size: 4.5rem;
 }
 .navbar-brand{
 	color: #ffffff;
