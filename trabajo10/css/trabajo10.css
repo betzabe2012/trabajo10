@@ -1,0 +1,150 @@
+
+.navbar_navigation{
+	background-color: #121619;
+}
+
+.navbar_barbershop{
+	color: white;
+
+}
+
+.header__barbershop{
+background-image: url("../assets/img/post-image.jpg");
+background-repeat: no-repeat;
+background-color: #121619;
+width: 100%;
+background-position: center;
+
+}
+
+
+.post-image{
+	position: absolute;
+}
+
+.nav-link{
+	color: white;
+}
+
+.logo-bigote{
+	width: 80px;
+	margin-left: 70px;
+}
+.h1-header{
+	color: #ffffff;
+	text-align: center;
+	padding-top: 100px;
+	font-family: 'Playfair Display', serif;
+}
+.navbar-brand{
+	color: #ffffff;
+	font-size: 60px;
+}
+
+.text-all{
+	color: #A4A4A4;
+	padding: 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	width: 75%;
+
+}
+.flechas-bottom{
+	text-align: center;
+	margin-top: 300px;
+
+}
+
+.fecha-calendar{
+	padding-top:30px;
+	width: 75%;
+}
+.calendar{
+	float: left;
+	margin-right: 10px;
+	margin-top: 5px;
+	color: #A4A4A4;
+
+}
+
+.fecha{
+    margin-top: 0px;
+	color: #A4A4A4;
+
+
+
+}
+
+.fas-i{
+	color: #ffffff;
+	background-color: #707070;
+	border-radius: 50px;
+	font-size: 15px;
+
+	border: 10px solid #707070;
+	text-align: center;
+
+}
+.iconos{
+	margin: 50px 0 50px 0;
+	z-index: 0;
+}
+
+.user-1{
+	margin-left: 30%;
+	color: #707070;
+	background-color: #FFFFFF;
+	font-size: 40px;
+	position: absolute;
+	z-index: 1;
+	margin-top: 6px;
+
+	 
+}
+.naomi{
+	position: relative;
+	border-top: 1px solid #A4A4A4;
+	height: 200px;
+	z-index: 0;
+	width: 100%;
+
+}
+
+.container-naomi{
+	float: left;
+	margin-top: 50px; 
+	width: 100%;
+	
+
+}
+.foto-naomi{
+	border-radius: 150px;
+	width: 200px;
+}
+.name{
+	margin: 40px 0px 0px 40px;
+	margin-top: 60px;
+}
+
+.text-naomi{
+	width: 50%;
+
+
+}
+.otros{
+	background-color: #A4A4A4;
+	height: 150px;
+}
+
+.footer-barbershop{
+	background-color: #121619;
+	height: 100px;
+}
+
+.logo-bigote-footer{
+	width: 80px;
+	margin-left: 50%;
+	padding-top: 40px;
+}
+
+}
